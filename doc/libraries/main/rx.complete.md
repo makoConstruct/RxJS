@@ -146,7 +146,7 @@ NuGet Packages:
 - [`shareValue`](../../api/core/operators/sharevalue.md)
 - [`refCount`](../../api/core/operators/refcount.md)
 - [`reduce`](../../api/core/operators/reduce.md)
-- [`repeat`](../../api/core/operators/repeat.md)
+- [`repeat`](../../api/core/operators/repeatproto.md)
 - [`replay`](../../api/core/operators/replay.md)
 - [`retry`](../../api/core/operators/retry.md)
 - [`retryWhen`](../../api/core/operators/retrywhen.md)
